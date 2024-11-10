@@ -1,0 +1,6 @@
+.env
+/data/*
+/dags/logs/
+/dags/airflow.cfg
+/dags/airflow.db
+/dags/webserver_config.py
